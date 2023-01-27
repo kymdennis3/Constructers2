@@ -12,5 +12,6 @@ public class Main {
         System.out.println(human1.weight);*/
 
         human1.eat();
+        human.drink();
     }
 }
