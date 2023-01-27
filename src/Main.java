@@ -8,5 +8,7 @@ public class Main {
         //System.out.println(human.weight);
 
         System.out.println(human1.name);
+        System.out.println(human1.age);
+        System.out.println(human1.weight);
     }
 }
