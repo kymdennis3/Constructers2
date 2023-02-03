@@ -11,7 +11,7 @@ public class Main {
         System.out.println(human1.age);
         System.out.println(human1.weight);*/
 
-        //human1.eat();
-        human.drink();
+        human1.eat();
+        //human.drink();
     }
 }
